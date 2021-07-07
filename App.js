@@ -8,7 +8,7 @@ export default function App() {
         <Image source={require("./assets/perry.png")} style={styles.photo} />
       </View>
       <View style={styles.nameContainer}>
-        <Text style={styles.nameAndPronouns}>Perry (she/her)</Text>
+        <Text style={styles.nameAndPronouns}>Perry!!! (she/her)</Text>
       </View>
       <View style={styles.blurbContainer}>
         <Text style={styles.blurb}>chirp chirp i'm a parakeet</Text>
